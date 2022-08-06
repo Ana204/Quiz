@@ -48,7 +48,7 @@ h1{
     margin: 20px 0;
 }
 
-.options{
+.option{
     display: flex;
     align-items: center;
     height: 40px;
@@ -60,7 +60,7 @@ h1{
     cursor: pointer;
 }
 
-.options span{
+.option span{
     display: flex;
     justify-content: center;
     align-items: center;
@@ -72,7 +72,7 @@ h1{
     background-color: rgba(0, 0, 0, 0.8);
     color: #555;
 }
-.options:hover{
+.option:hover{
     background-color: rgba(0, 0, 0, 0.2);
 }
 
